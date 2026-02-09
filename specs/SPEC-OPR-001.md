@@ -17,6 +17,8 @@ This is a specification (prompt) for Organization Process Re-engineering (OPR).
 
 **Git Hash Identity:** Your Organization's new name is its Git Hash — each day's org is a specific commit: immutable, traceable, reproducible.
 
+**The NWP Premise:** If NWP can handle the Earth's Weather, it can handle your Organization.
+
 ---
 
 ## Canonical Triple for Organizations
