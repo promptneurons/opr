@@ -15,6 +15,8 @@ This is a specification (prompt) for Organization Process Re-engineering (OPR).
 
 **The YOLOD Principle:** Your Organization Lives One Day
 
+**Git Hash Identity:** Your Organization's new name is its Git Hash — each day's org is a specific commit: immutable, traceable, reproducible.
+
 ---
 
 ## Canonical Triple for Organizations
